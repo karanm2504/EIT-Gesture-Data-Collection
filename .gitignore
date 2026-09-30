@@ -1,0 +1,6 @@
+last_hc05_port.txt
+last_usb_port.txt
+*.asv
+*.tmp
+.DS_Store
+Thumbs.db
